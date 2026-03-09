@@ -62,7 +62,7 @@ Bootstrap (для HTML-шаблонов)
 ### Установка:
 
 ````
-git clone https://github.com/nadezhdapopova-spec/Basic_website.git
+git clone https://github.com/simbarilion/Basic_website.git
 cd Basic_website
 poetry install
 poetry shell
@@ -132,4 +132,4 @@ Python Developer
 
 📧 nadezhdapopova13@yandex.ru
 
-🔗 GitHub: nadezhdapopova-spec
+🔗 GitHub: simbarilion
