@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "Basic_website"
+package-mode = false
 version = "0.1.0"
 description = "A minimal HTTP server in Python, implemented using the standard http.server module"
 authors = [
